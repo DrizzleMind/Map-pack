@@ -1,4 +1,7 @@
-Chronological map order
+Chronological map order.
+Just my ideas behind the maps.
+
+
 
 survival_spdestructor - survival/attack hybrid map focused on the shield projector mechanic
 
